@@ -26,7 +26,7 @@ I am a petroleum engineering student at UENF and a java backend developer.
 ## :bearded_person: ***GitHub Stats***
 (__)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LeonamBr=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonamBr)](https://github.com/LeonamBr/github-readme-stats)
 
 I am currently looking for a job as a java backend developer.
 
