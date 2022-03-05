@@ -19,12 +19,10 @@ Here are some ideas to get you started:
 I am a petroleum engineering student at UENF and a java backend developer.
 
 ## you can find me at:
-(__)
 
 [<img src = "https://img.shields.io/badge/Leonam_Braga-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/leonam-braga-82856074/) [<img src="https://img.shields.io/badge/@BragaLeonam-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/braga_leonam/) [<img src ="https://img.shields.io/badge/leonamb77@gmail.com-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />]()
 
 ## :bearded_person: ***GitHub Stats***
-(__)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonamBr&show_icons=true&theme=dark)](https://github.com/LeonamBr/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonamBr&layout=compact)](https://github.com/LeonamBr/github-readme-stats)
 
