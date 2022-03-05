@@ -68,6 +68,8 @@ For a long time I was an ad analyst for Google where I was able to earn some inc
 
 ______________________________________________________________________________________________________________________________________________________________________
 
+![Snake animation](https://github.com/LeonamBr/LeonamBr/blob/output/github-contribution-grid-snake.svg)
+
 So that's it folks, remember, drink water, eat fruit and move on.
 
 ***Have a great day***.
