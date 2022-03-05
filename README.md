@@ -68,4 +68,4 @@ ________________________________________________________________________________
 
 So that's it folks, remember, drink water, eat fruit and move on.
 
-*** Have a great day ***.
+***Have a great day***.
