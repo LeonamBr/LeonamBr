@@ -20,7 +20,7 @@ I am a petroleum engineering student at UENF and a java backend developer.
 
 ### you can find me at:
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/braga_leonam/)
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/leonam-braga-82856074/)[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=@Braga_Leonam&logoColor=white" />](https://www.instagram.com/braga_leonam/)
 
 
 I am currently looking for a job as a java backend developer.
