@@ -26,7 +26,7 @@ I like martial arts and I practiced karate for a long time when I was young.
 
 ## Why did I start with software development?
 
-As a child I loved video games and as soon as I got my first computer I wanted to know how games were made and I ended up bumping into my first barrier to learning to program which was math :rofl: :zany_face:
+As a child I loved video games and as soon as I got my first computer I wanted to know how games were made and I ended up bumping into my first barrier to learning to program which was math. :rofl: :zany_face:
 
 ## Where did I learn to program?
 
@@ -64,6 +64,8 @@ One of the best experiences of my life, I was able to dedicate a little of my ti
 
 For a long time I was an ad analyst for Google where I was able to earn some income through micro tasks of analyzing advertisements, the system aims to filter which advertisements can be shown to the public and prevent fake news from reaching users.
 
+______________________________________________________________________________________________________________________________________________________________________
+
 So that's it folks, remember, drink water, eat fruit and move on.
 
-have a great day.
+*** Have a great day ***.
