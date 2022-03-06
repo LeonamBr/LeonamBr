@@ -12,7 +12,7 @@ I am a petroleum engineering student at UENF and a java backend developer.
 
 I am currently looking for a job as a java backend developer.
 
-I love cafe, games and game development, I love soccer and practicing martial arts.
+I love coffee, games and game development, I love soccer and practicing martial arts.
 
 ## 🌱 I’m currently learning
 
