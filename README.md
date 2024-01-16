@@ -1,6 +1,6 @@
 ### Hi 👋, i'm Leonam
 
-I am a petroleum engineering student at UENF and a java backend developer.
+I am a petroleum engineering graduated at UENF and a java and C++ backend developer.
 
 ## you can find me at:
 
