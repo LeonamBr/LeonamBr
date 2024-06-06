@@ -42,7 +42,7 @@ I graduated from the Dr Sylvio Bastos Tavares State School in Campos dos Goytaca
 
 I am trained as a computer technician at the former CEFET - Federal Center for Technological Education (currently IFF)
 
-I am under graduation from the state University of Northern Fluminense Darcy Ribeiro(UENF) in oil exploration and production engineering.
+I graduated from the state University of Northern Fluminense Darcy Ribeiro(UENF) in oil exploration and production engineering.
 
 ## Experiences
 
